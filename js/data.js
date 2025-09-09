@@ -1,5 +1,5 @@
 /**
- * interventionData--
+ * interventionData --
  * * Esta matriz contiene todos los datos para el Plan de Intervenciones para la Prevención de la DNTc.
  * Cada objeto en la matriz representa una etapa del ciclo de vida (ej. Preconcepción, Embarazo).
  * * Estructura de cada objeto de sección:
